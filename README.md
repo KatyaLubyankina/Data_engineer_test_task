@@ -23,7 +23,7 @@ git clone https://github.com/KatyaLubyankina/Data_engineer_test_task.git
 cd Data_engineer_test_task
 ```
 ### Комментарии к задаче 1
-1. 
+1. Все решения представлены в виде готовых SQL запросов.
 2. В таблицах я выбрала следующие форматы
 - date - DATE
 - price - DECIMAL(12,2)
